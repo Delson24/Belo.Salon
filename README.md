@@ -7,7 +7,7 @@ npm run dev
 
 # or
 
-yarn dev
+yarn dev 
 
 # or
 
